@@ -1,0 +1,31 @@
+.About {
+    background-color: darkblue;
+    height: 630px;
+    align-items: center;
+    justify-content: center;
+}
+
+.About text {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.About img{
+    height: 400px;
+}
+
+.Welcome text {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 2%;
+}
+
+.About caption {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
