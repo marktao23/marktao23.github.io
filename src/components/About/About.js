@@ -1,5 +1,7 @@
 import cssfile from './About.module.css';
 import headshot from './../../images/Mark Tao_Headshot.jpg';
+import React from 'react'
+
 
 const About = () => {
     return (

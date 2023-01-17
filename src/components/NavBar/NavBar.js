@@ -1,4 +1,5 @@
 import cssfile from './NavBar.module.css';
+import React from 'react'
 
 const NavBar = () => {
     return (
